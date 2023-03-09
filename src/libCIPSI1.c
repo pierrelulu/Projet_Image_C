@@ -1,5 +1,6 @@
 // libCIPSI1.c 
 // Pierre lulu - filière IPSI
+// Quentin 56
 
 #pragma once
 #include <stdlib.h>
