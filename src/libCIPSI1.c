@@ -1,5 +1,5 @@
 // libCIPSI1.c 
-// Hubert Konik - filière IPSI
+// Pierre lulu - filière IPSI
 
 #pragma once
 #include <stdlib.h>

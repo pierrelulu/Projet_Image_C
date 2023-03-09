@@ -1,4 +1,5 @@
 /* librairie IPSI1 */
+//Pierre lulu
 
 typedef struct point
 {

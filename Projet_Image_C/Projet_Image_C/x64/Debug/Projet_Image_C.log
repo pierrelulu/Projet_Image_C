@@ -1,2 +1,11 @@
-﻿  main.c
+﻿  libCIPSI1.c
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(620,13): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(650,14): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1206,18): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1306,18): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1308,16): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1404,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1405,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1419,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\src\libCIPSI1.c(1420,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
   Projet_Image_C.vcxproj -> C:\Users\luttm\Documents\Devoirs\FISA1\Code_Algorithmique\Projet\Projet_Image_C\Projet_Image_C\x64\Debug\Projet_Image_C.exe
