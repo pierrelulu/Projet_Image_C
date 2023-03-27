@@ -1,0 +1,28 @@
+# Fichiers de construction
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Fichiers de débogage
+*.pdb
+*.pdb.lock
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.bak
+
+# Répertoires
+Debug/
+Release/
+x64/
+x86/
+Win32/
+x64/
+
+# Fichiers spécifiques
+Thumbs.db
+.DS_Store
